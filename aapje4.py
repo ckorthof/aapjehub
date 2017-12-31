@@ -21,4 +21,4 @@ print(var4)
 print("De score is: " + str(var4['Score']))
 for userid in passworddict.keys():
     pwd = passworddict[userid]
-    print("Password van " + userid + ": " + pwd)
+    print("Password of " + userid + ": " + pwd)
